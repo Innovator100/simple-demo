@@ -1,4 +1,4 @@
 # simple-demo
 This is my first Git Repository
 <br>
-Author - Yashashwini P A
+Author - Yashashwini P A (student)
